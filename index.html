@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="./picon.png" />
+		<meta name="viewport" content="width=device-width" />
+		<script src="https://kit.fontawesome.com/76d7f17d8d.js" crossorigin="anonymous"></script>
+		<!-- <script src="https://cdn.jsdelivr.net/npm/reveal.js-mermaid-plugin@1.1.0/plugin/mermaid/mermaid.js"></script> -->
+		
+		<link rel="modulepreload" href="./_app/immutable/entry/start.87d114ae.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index.9990c19a.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.6fec7cd9.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/app.67b7f975.js">
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">
+			<script>
+				{
+					__sveltekit_1qpknu8 = {
+						assets: "/afsin2023",
+						base: new URL(".", location).pathname.slice(0, -1),
+						env: {}
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("./_app/immutable/entry/start.87d114ae.js"),
+						import("./_app/immutable/entry/app.67b7f975.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element);
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>
