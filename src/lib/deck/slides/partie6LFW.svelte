@@ -66,7 +66,7 @@
         <span>Modèles</span>
     </h3>
     <div class="flex justify-center items-center">
-        <img src="images/illustrations/comparaison_modeles.png">
+        <div><img src="images/illustrations/comparaison_modeles.png"></div>
     </div>
 </section>
 

@@ -24,6 +24,7 @@
 	import Partie9Similarity from './slides/partie9Similarity.svelte';
 	import Partie10Histogram from './slides/partie10Histogram.svelte';
 	import Partie11Hack from './slides/partie11Hack.svelte';
+	import Partie12Legit from './slides/partie12Legit.svelte';
 
 
 	onMount(() => {
@@ -37,7 +38,7 @@
 		});
 
 		deck.initialize({center: true, plugins: [RevealMath.MathJax3, RevealMarkdown, Notes] });
-		deck.slide(0);
+		deck.slide(44);
 	});
 </script>
 
@@ -53,8 +54,9 @@
 		<Partie9Similarity />
 		<Partie10Histogram />
 		<Partie11Hack />
+		<Partie12Legit />
 	</div>
-	<div class="absolute left-0 bottom-0 w-52"><img class="lerti-logo" src="Lerti_logo_vect.svg"></div>
+	<div class="absolute left-0 bottom-0 w-52"><img class="lerti-logo" src="Lerti_logo_raster.png"></div>
 </div>
 
 <style lang="postcss">

@@ -1,9 +1,9 @@
-<section>
+<!-- <section>
     <h3 class="border-y-2 border-orange-300 pt-2">
         <span>Défis à surmonter</span>
     </h3>
-</section>
-
+</section> -->
+<!-- 
 <section data-auto-animate="">
     <div class="flex justify-around items-center flex-wrap">
         <div class="img-ctnr"><img class="face-img" src="images/joes/joe_biden1.jpg"></div>
@@ -129,9 +129,9 @@
     <aside class="notes">
         À un visage en partie couvert (2/2)
     </aside>
-</section>
+</section> -->
 
-<section data-auto-animate="">
+<!-- <section data-auto-animate="">
     <div class="flex justify-around items-center flex-wrap">
         <div class="img-ctnr2"><img class="face-img" src="images/joes/joe_biden1.jpg"></div>
         <div class="img-ctnr2"><img class="face-img" src="images/joes/joe_biden_young.webp"></div>
@@ -152,7 +152,7 @@
         De manière générale, même pour des photos de bonne qualité, elles peuvent différent fortement sans que pour autant un humain ne puisse plus la différence. On s'attends au minimum à ce que la reconnaissance faciale automatique puisse faire de même. À l'opposé, on souhaite qu'elle puisse reconnaître la même personne là où un humain ne pourrait pas le faire, c'est tout l'intérêt de l'évolution de la technologie.. 
         Je n'ai même pas parlé de pouvoir distinguer deux personnes différentes qui souffre des mêmes variations.
     </aside>
-</section>
+</section> -->
 
 <section data-auto-animate>
     <h3 class="border-b-2 border-orange-300">

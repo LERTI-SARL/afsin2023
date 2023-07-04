@@ -26,10 +26,10 @@
     </h3>
     <div>
         <div>
-            <div class="w-full"><img src="plots/similarity_matrices.png" ></div>
+            <div class="w-1/2 m-auto"><img src="plots/similarity_matrices.png" ></div>
         </div>
         <div class="flex justify-between items-center gap-2">
-            <div class="h-72"><img src="plots/zoom_arcface_sim.png" ></div>
+            <div class="img-ctnr"><img src="plots/zoom_arcface_sim.png" ></div>
             <div class="flex flex-col gap-2">
                 <ul class="text-lg r-frame px-6">
                     <li><span class="text-theme-header font-bold">13233</span> photos de personnes</li>
@@ -74,5 +74,10 @@
         object-fit: contain;
         z-index: -1;
         max-width: 100%;
+    }
+    .img-ctnr {
+        @apply flex justify-center items-center;
+        @apply h-52;
+        @apply m-auto;
     }
 </style>

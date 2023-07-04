@@ -17,7 +17,7 @@
             <div class="h-36"><img src="images/other_faces/zemmour.jpg"></div>
             <div class="h-36"><img src="images/other_faces/chalamet.jpg"></div>
         </div>
-        <div class="fragment m-auto w-1/3"><img src="plots/sim_zem_chal_0.png"></div>
+        <div class="fragment m-auto w-1/4"><img src="plots/sim_zem_chal_0.png"></div>
     </div>
 </section>
 
@@ -48,7 +48,7 @@
             <div class="h-36"><img src="images/other_faces/zemmour.jpg"></div>
             <div class="h-36"><img src="images/other_faces/chalamet.jpg"></div>
         </div>
-        <div class="h-64"><img src="plots/combined_looped.gif"></div>
+        <div class="h-64"><img src="plots/100.png"></div>
     </div>
 </section>
 

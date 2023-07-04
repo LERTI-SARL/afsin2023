@@ -9,14 +9,14 @@
     </div>
 </section>
 
-<section data-background-iframe="https://duhaime.s3.amazonaws.com/apps/umap-zoo/index.html" data-background-interactive>
-</section>
+<!-- <section data-background-iframe="https://duhaime.s3.amazonaws.com/apps/umap-zoo/index.html" data-background-interactive>
+</section> -->
 
 <section>
     <h3 class="border-b-2 border-orange-300">
         <span>Vecteurs générés par les modèles</span>
     </h3>
-    <div><img src="plots/umap.png" ></div>
+    <div class="img-ctnr"><img src="plots/umap.png" ></div>
     <ul class="text-xl">
         <li><span class="text-theme-header">13233</span> points représentants les <span class="text-theme-header">13233</span> photos de départ</li>
         <li>Deux points proches</li>
@@ -43,5 +43,6 @@
     .img-ctnr {
         @apply flex justify-center items-center;
         @apply w-fit h-72;
+        @apply m-auto;
     }
 </style>

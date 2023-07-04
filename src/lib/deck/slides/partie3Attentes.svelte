@@ -1,44 +1,8 @@
 <section data-auto-animate>
     <div>
-        <div class="flex items-center justify-around">
-            <div data-id="31" class="fragment flex justify-between items-center" data-fragment-index="31">
-                <span>Question</span>
-                <svg class="fill-theme-text" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg>
-            </div>
-            <div class="r-stack">
-                <img class="border-orange-300 border-2" src="images/stock/yeah_science.jpg" width="450">
-                Science ! - Jesse Pinkman
-            </div>
-            <div data-id="32" class="fragment flex justify-between items-center" data-fragment-index="31">
-                <svg class="fill-theme-text" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg>
-                <span>Réponse</span>
-            </div>
-        </div>
-    </div>
-    <aside class="notes">
-        ...utilise la science pour y arriver. 
-        Une question, une réponse, et entre les deux on s'attend à une méthode.
-    </aside>
-</section>
-
-<section data-auto-animate>
-    <div>
         <h3 class="border-b-2 border-orange-300">
             Attentes
         </h3>
-        <div class="flex items-center justify-around">
-            <div data-id="31" class="flex justify-between items-center" data-fragment-index="31">
-                <span>Question</span>
-                <svg class="fill-theme-text" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg>
-            </div>
-            <div class="r-stack">
-                <img class="border-orange-300 border-2" src="images/stock/yeah_science.jpg" width="300">
-            </div>
-            <div data-id="32" class="flex justify-between items-center" data-fragment-index="31">
-                <svg class="fill-theme-text" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg>
-                <span>Réponse</span>
-            </div>
-        </div>
         <div>
             <small>
                 <ul>
